@@ -1,0 +1,15 @@
+streamlit
+openai
+numpy
+openai
+python-dotenv
+pyaudio
+opencv-python
+panda
+pydantic
+
+librosa
+matplotlib
+pydub
+plotly
+mediapipe
